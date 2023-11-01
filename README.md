@@ -1,5 +1,5 @@
 # CAD_Phase wise project submission
-GitHub link:
+GitHub link:https://github.com/EugeneEbenezer/CAD_phases.git
 # Set Up Your Blog: 
 Before you deploy your blog, you should have your blog content ready in the form of HTML, CSS, and JavaScript files. You can create your blog using static site generators like Jekyll, Hugo, or frameworks like React or Vue.js.
 
